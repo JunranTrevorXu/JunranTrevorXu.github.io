@@ -1,6 +1,6 @@
-THEME: Explorer - Free Bootstrap Theme
-AUTHOR: uiCookies.com
-AUTHOR URI: https://uiCookies.com/
+THEME: NA
+AUTHOR: Junran Xu
+AUTHOR URI: NA
 VERSION: 1.0
 
 
